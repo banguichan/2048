@@ -1,0 +1,13 @@
+READ ME 
+Jeu 2048
+Fait par Renaudin Ariane et Schecroun Mathis
+Pour le 09/10/2023
+Fichier a lancer: 2048.py
+-2048.py
+-grille.py
+-partie.py
+-saisie.py
+-pile.py
+    |-last_game.bk
+-classement.py
+    |Highscore.txt
